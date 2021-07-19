@@ -20,7 +20,7 @@ A flutter app with identical UI as Instagram but can be used to create custom Po
 
 | **Sign In Screen** |  **Register Screen** |
 | :------: | :----: |
-|<img src="assets\Signin.jpg" />|<img src="assets\reg.jpg"/>|
+|<img src="assets\signin.jpg" />|<img src="assets\reg.jpg"/>|
 
 <br></br>
 
